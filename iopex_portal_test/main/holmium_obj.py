@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 
 import unittest
 
-# tests commot
+
 class SeleniumHQPage(Page):
     
     nav_links = ElementMap(Locators.CSS_SELECTOR
